@@ -1,0 +1,24 @@
+
+// Fonts
+//@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+.font{
+  font-size: 20px !important;
+  color: red;
+
+}
+.ChangePasswordForm{
+  float: right !important;
+  background-color: #2A3542 !important;
+  border-radius: 5px;
+}
+
+.Title{
+  float: right !important;
+}

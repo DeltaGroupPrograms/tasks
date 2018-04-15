@@ -1,4 +1,6 @@
-<div class="col-md-6 ChangePasswordForm" >
+@extends('tasks')
+@section('content')
+<div class="col-md-6 " >
         {{csrf_field()}}
     <div class="form-caption">مشاهده لیست اعضا</div>
         <table class="hor-minimalist-b">
@@ -28,10 +30,6 @@
             @endif
         </table>
     </div>
-
-
-
-
 </div>
 
-
+@stop

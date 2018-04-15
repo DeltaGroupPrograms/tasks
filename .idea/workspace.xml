@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b713b76a-3c52-4f2e-8e72-e0e8675f4201" name="Default" comment="">
+    <list default="true" id="b713b76a-3c52-4f2e-8e72-e0e8675f4201" name="Default" comment="First Orginal app 222">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -168,7 +168,7 @@
       <workItem from="1523735486682" duration="15000" />
       <workItem from="1523738298032" duration="953000" />
       <workItem from="1523740926975" duration="13000" />
-      <workItem from="1523789001245" duration="2811000" />
+      <workItem from="1523789001245" duration="2990000" />
     </task>
     <task id="LOCAL-00001" summary="The Second Commit">
       <created>1523726379553</created>
@@ -212,11 +212,18 @@
       <option name="project" value="LOCAL" />
       <updated>1523791772495</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="First Orginal app 222">
+      <created>1523791951010</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1523791951010</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8716000" />
+    <option name="totallyTimeSpent" value="8895000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
